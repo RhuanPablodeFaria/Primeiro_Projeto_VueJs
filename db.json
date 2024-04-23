@@ -1,0 +1,42 @@
+{
+  "projetos": [
+    {
+      "id": "1",
+      "nome": "Alura tracker V3.0"
+    },
+    {
+      "id": "c8ff",
+      "nome": "Curso Vue.JS 3"
+    }
+  ],
+  "tarefa": [
+    {
+      "id": "1",
+      "duracaoEmSegundos": 120,
+      "descricao": "Configuração do ambiente",
+      "projeto": {
+        "id": 1,
+        "nome": "Alura tracker V3.0"
+      }
+    },
+    {
+      "id": "1fcf",
+      "duracaoEmSegundos": 0,
+      "descricao": "teste"
+    },
+    {
+      "id": "b3b5",
+      "duracaoEmSegundos": 1,
+      "descricao": "teste2"
+    },
+    {
+      "id": "0b46",
+      "duracaoEmSegundos": 2,
+      "descricao": "Uau 4",
+      "projeto": {
+        "id": "c8ff",
+        "nome": "Curso Vue.JS 3"
+      }
+    }
+  ]
+}
